@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
 WEBHOOK_URL = os.getenv('WEBHOOK_URL')
 PICKER_NAME = os.getenv('PICKER_NAME')
 PICKER_EMOJI = os.getenv('PICKER_EMOJI')
