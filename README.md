@@ -22,4 +22,4 @@ You'll need for this bot to work :
 -   Install dependencies with pipenv
 -   Create your own `.txt` file following the template
 -   Fill the .env file with your own values
--   Run the `randomPersonPicker.py` file
+-   Run the `randomPersonPicker.py` file using `pipenv run python randomPersonPicker.py`
